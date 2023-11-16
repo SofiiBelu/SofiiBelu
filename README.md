@@ -5,7 +5,6 @@
 ¡Holis! Soy Sofii, una entusiasta desarrolladora frontend con un fuerte deseo de aprender y superarme continuamente. Mi pasión radica en crear sitios webs atractivos e interactivos. Estoy emocionada por formar parte de este mundito del desarrollo y contribuir con mi creatividad y mi humilde trabajo ❤️. 
 
 ### Mis conocimientos:
-:html5:
 
 <!--
 **SofiiBelu/SofiiBelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
