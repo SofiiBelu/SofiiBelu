@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[CV Sofía Arín.pdf](https://github.com/SofiiBelu/SofiiBelu/files/13378734/CV.Sofia.Arin.pdf)
+
+[Mi humilde currículum](https://github.com/SofiiBelu/SofiiBelu/files/13378766/CV.Sofia.Arin.pdf)
