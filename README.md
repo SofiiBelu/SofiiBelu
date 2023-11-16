@@ -1,5 +1,4 @@
-### Holis, soy Sofía Arín o SofiiBelu
-
+<h1>Mi nombre es Sofía Arín</h1>
 <!--
 **SofiiBelu/SofiiBelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
