@@ -1,4 +1,9 @@
-<h1>Mi nombre es Sofía Arín</h1>
+# Sofía Arín - Sofii Belu
+
+## Desarrolladora Frontend Novata con Pasión por el Aprendizaje
+
+¡Holis! Soy Sofii, una entusiasta desarrolladora frontend con un fuerte deseo de aprender y superarme continuamente. Mi pasión radica en crear sitios webs atractivos e interactivos. Estoy emocionada por formar parte de este mundito del desarrollo y contribuir con mi creatividad y mi humilde trabajo <3. 
+
 <!--
 **SofiiBelu/SofiiBelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
