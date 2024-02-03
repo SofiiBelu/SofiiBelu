@@ -3,6 +3,7 @@
 ## Desarrolladora Frontend Novata con pasión por el aprendizaje continuo :3 ❤️
 
 ¡Holis! Soy Sofii, una entusiasta desarrolladora frontend con un fuerte deseo de aprender y superarme continuamente. Mi pasión radica en crear sitios webs atractivos e interactivos. Estoy emocionada por formar parte de este mundito del desarrollo y contribuir con mi creatividad y mi humilde trabajo ❤️. 
+Uno de mis pequeños proyectos en los que estoy trabajando, una página perteneciente a la comunidad de un vídeojuego "Black Desert": https://clairedelune.netlify.app/activities
 
 ### Mis conocimientos:
 
