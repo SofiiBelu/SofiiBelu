@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Mi humilde currículum](https://github.com/SofiiBelu/SofiiBelu/files/13378766/CV.Sofia.Arin.pdf)
+
