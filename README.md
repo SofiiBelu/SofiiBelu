@@ -6,7 +6,7 @@
 <p>¡Holis! Soy Sofii, una entusiasta desarrolladora web con un fuerte deseo de aprender y superarme continuamente. Mi pasión radica en crear sitios webs atractivos e interactivos, siempre captando la identidad de la empresa o comunidad que deseamos representar. Estoy emocionada por formar parte de este mundito del desarrollo y contribuir con mi creatividad y mi humilde trabajo ❤️. 
 Me encanta enfrentar nuevos retos y superarlos con ganas de aprender y dando lo mejor de mí. Cada desafío es una aventura que me motiva a crecer y descubrir nuevas habilidades. No hay mayor satisfacción que lograr algo que antes me parecía imposible!</p>
 
-A lo largo de mi experiencia desarrollando he sentido que en ocasiones no se lo suficiente, me ha tocado enfrentarme a lenguajes, requerimientos y herramientas nuevas y totalmente desconocidas para mí. Pero siempre me he esforzado por aprender lo necesario para superar esos retos, por eso mi lema es: Puede que en ocasiones no esté a la altura, pero llegaré a estarlo
+A lo largo de mi experiencia desarrollando he sentido que en ocasiones no se lo suficiente, me ha tocado enfrentarme a lenguajes, requerimientos y herramientas nuevas y totalmente desconocidas para mí. Pero siempre me he esforzado por aprender lo necesario para superar esos retos, por eso mi lema es: Puede que en ocasiones no esté a la altura, pero aprenderé lo necesario para estarlo.
 
 <h3> Mi título: </h3>
 Técnica en Análisis y Desarrollo de Software
