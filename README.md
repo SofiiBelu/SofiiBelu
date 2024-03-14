@@ -7,6 +7,7 @@
 Me encanta enfrentar nuevos retos y superarlos con ganas de aprender y dando lo mejor de mí. Cada desafío es una aventura que me motiva a crecer y descubrir nuevas habilidades. No hay mayor satisfacción que lograr algo que antes me parecía imposible!</p>
 
 A lo largo de mi experiencia desarrollando he sentido que en ocasiones no se lo suficiente, me ha tocado enfrentarme a lenguajes, requerimientos y herramientas nuevas y totalmente desconocidas para mí. Pero siempre me he esforzado por aprender lo necesario para superar esos retos, por eso mi lema es: Puede que en ocasiones no esté a la altura, pero aprenderé lo necesario para estarlo.
+<hr>
 
 <h3> Mi título: </h3>
 Técnica en Análisis y Desarrollo de Software
@@ -16,7 +17,7 @@ Técnica en Análisis y Desarrollo de Software
     <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,mysql,php,postman,github" />
   </a>
 </p>
-
+<hr>
 <h3> Proyectos: </h3>
 <h4> Claire de Lune Website </h4>
 <p>Sitio web perteneciente a la comunidad de un vídeojuego "Black Desert". Me encargué de conocer los requerimientos, pensar las soluciones, el diseño, la maquetación, estilo y la programación de la web.
