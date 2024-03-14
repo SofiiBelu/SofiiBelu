@@ -9,7 +9,7 @@ El último proyecto que desarrolle, una página perteneciente a la comunidad de 
 ### Mi título:
 Técnica en Análisis y Desarrollo de Software
 ### Mis conocimientos:
-<i class="fab fa-github"></i>   <!-- Ejemplo de un icono de GitHub -->
+https://fontawesome.com/icons/square-github?f=brands&s=solid
 
 ♥ HTML 
 ♥ CSS 
