@@ -12,7 +12,7 @@ Técnica en Análisis y Desarrollo de Software
 ### Mis conocimientos:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js, react, mysql,php,postman, github" />
   </a>
 </p>
 
