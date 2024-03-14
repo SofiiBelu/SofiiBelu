@@ -17,8 +17,13 @@ Técnica en Análisis y Desarrollo de Software
 </p>
 
 <h3> Proyectos: </h3> 
-<p>Página web perteneciente a la comunidad de un vídeojuego "Black Desert", me encargué de conocer los requerimientos, pensar las soluciones, el diseño, la maquetación, estilo y la programación de la web.
+<p>Sitio web perteneciente a la comunidad de un vídeojuego "Black Desert". Me encargué de conocer los requerimientos, pensar las soluciones, el diseño, la maquetación, estilo y la programación de la web.
 Desarrollada con HTML, CSS Y JavaScript: https://clairedelune.netlify.app/activities </p>
+
+<p>Sitio web de la facultad, cuyo propósito es facilitar la inscripción a las mesas de exámenes, almacenar en una base de datos la información de los inscriptos e imprimir la lista de alumnos de cada exámen. Mi tarea fue desarrollar al 100% el front end, para ello debí conocer los requerimientos de la facultad y encargar de diseñarla, maquetarla, darle estilo y programar la parte del front, aúnque también estuve en tareas de backend como la construcción de la base de datos y la API.
+Si bien la página web podría verse mejor, debo aclarar que el trabajo de mis compañeros repetidamente involucraba modificar el front, afectando parte de mi trabajo. Y la falta de la mitad del equipo hizo que los tiempos no dieran para finalizar el desarrollo correctamente.
+Desarrollada con HTML, CSS, TypeScript, PHP, MySql y Angular:
+https://escuelasagarna.ar/inicio</p>
 
 
 
