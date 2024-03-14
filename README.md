@@ -9,7 +9,7 @@ El último proyecto que desarrolle, una página perteneciente a la comunidad de 
 ### Mi título:
 Técnica en Análisis y Desarrollo de Software
 ### Mis conocimientos:
-![image](https://github.com/SofiiBelu/SofiiBelu/assets/128552138/3637ecc8-d237-4e50-8517-7c3b9174502a)
+![image](https://github.com/SofiiBelu/SofiiBelu/assets/128552138/3637ecc8-d237-4e50-8517-7c3b9174502a) {width=300px}
 
 
 
