@@ -26,7 +26,7 @@ A lo largo de mi experiencia desarrollando he sentido que en ocasiones no se lo 
 Diariamente estudio y práctico nuevas herramientas, así como también, adquiero nuevos conocimientos de manera autodidacta. 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,mysql,php,postman,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,mysql,php,vscode,postman,github" />
   </a>
 </p>
 <hr>
