@@ -7,7 +7,12 @@ Me encanta enfrentar nuevos retos y superarlos con ganas de aprender y dando lo 
 El último proyecto que desarrolle, una página perteneciente a la comunidad de un vídeojuego "Black Desert": https://clairedelune.netlify.app/activities
 
 ### Mis conocimientos:
-
+♥ HTML 
+♥ CSS 
+♥ JavaScript
+♥ MySql
+♥ C#
+♥ Php
 <!--
 **SofiiBelu/SofiiBelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
