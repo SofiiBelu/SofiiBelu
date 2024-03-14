@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-ZEtA8lP6Sy4szRL0zdPJrH95NF7jjwpoQqBEx98H1rpupTdK4GRFhlacg0Xg2h5y4lZo0u5rpUgVdBG5dxRS6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <h1> Sofía Arín - Sofii Belu </h1
 
@@ -11,8 +10,11 @@ El último proyecto que desarrolle, una página perteneciente a la comunidad de 
 ### Mi título:
 Técnica en Análisis y Desarrollo de Software
 ### Mis conocimientos:
-
-<i class="fa-brands fa-html5"></i>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 ♥ HTML 
