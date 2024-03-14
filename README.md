@@ -5,6 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
+
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=hotpink&size=25&center=true&vCenter=true&width=600&height=100&lines=T%C3%A9cnica+en+An%C3%A1lisis+y+Desarrollo+de+Software;Junior+desarrolladora+front+end;Apasionada+por+el+aprendizaje;Amo+aprender+cosas+nuevas;Comprometida+con+el+crecimiento+profesional">
   </a>
 </p>
@@ -14,11 +15,11 @@
 <p>¡Holis! Soy Sofii, una entusiasta desarrolladora web con un fuerte deseo de aprender y superarme continuamente. Mi pasión radica en crear sitios webs atractivos e interactivos, siempre captando la identidad de la empresa o comunidad que deseamos representar. Estoy emocionada por formar parte de este mundito del desarrollo y contribuir con mi creatividad y mi humilde trabajo ❤️. 
 Me encanta enfrentar nuevos retos y superarlos con ganas de aprender y dando lo mejor de mí. Cada desafío es una aventura que me motiva a crecer y descubrir nuevas habilidades. No hay mayor satisfacción que lograr algo que antes me parecía imposible!</p>
 
-A lo largo de mi experiencia desarrollando he sentido que en ocasiones no se lo suficiente, me ha tocado enfrentarme a lenguajes, requerimientos y herramientas nuevas y totalmente desconocidas para mí. Pero siempre me he esforzado por aprender lo necesario para superar esos retos, por eso mi lema es: Puede que en ocasiones no esté a la altura, pero aprenderé lo necesario para estarlo.
+A lo largo de mi experiencia desarrollando he sentido que en ocasiones no se lo suficiente, me ha tocado enfrentarme a lenguajes, requerimientos y herramientas nuevas y totalmente desconocidas para mí. Pero siempre me he esforzado por aprender lo necesario para superar esos retos, por eso mi lema es: :heartpulse: :heartpulse: :heartpulse: <b><i> Puede que en ocasiones no esté a la altura, pero aprenderé lo necesario para estarlo. </b></i> :heartpulse: :heartpulse: :heartpulse:
 <hr>
 
-<h3> Mi título: </h3>
-Técnica en Análisis y Desarrollo de Software
+<h3> Mi título: Técnica en Análisis y Desarrollo de Software </h3>
+
 <h4> Diplomaturas:
   Diplomatura en desarrollo artístico de vídeojuegos </h4>
 <h4> Mis conocimientos: </h4>
@@ -32,7 +33,7 @@ Diariamente estudio y práctico nuevas herramientas, así como también, adquier
 <h3> Proyectos: </h3>
 <h4> Claire de Lune Website </h4>
 <p>Sitio web perteneciente a la comunidad de un vídeojuego "Black Desert". Me encargué de conocer los requerimientos, pensar las soluciones, el diseño, la maquetación, estilo y la programación de la web.
-Desarrollada con HTML, CSS Y JavaScript: https://clairedelune.netlify.app/activities </p>
+Desarrollada con HTML, CSS Y JavaScript: https://clairedelune.netlify.app/activities </p> 
 
 <h4> EduManager </h4>
 <p>Sitio web desarrollado para la facultad, con el propósito de facilitar el proceso de inscripción a las mesas de exámenes. Además, permite almacenar la información de los inscriptos en una base de datos y generar la lista de alumnos para cada examen. Mi responsabilidad principal fue el desarrollo del front-end en su totalidad. Esto implicó comprender los requisitos de la facultad y encargarme del diseño, maquetación, estilización y programación del front-end. También estuve involucrada en algunas tareas del back-end, como la construcción de la base de datos y la API.
