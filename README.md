@@ -4,8 +4,11 @@
 <h2> Desarrolladora Novata con pasión por el aprendizaje continuo :3 ❤️</h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Amante+de+los+gatos+<3;++;Front-end+developer;</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Amante+de+los+gatos">
+  </a>
 </p>
+
 
 
 <p>¡Holis! Soy Sofii, una entusiasta desarrolladora web con un fuerte deseo de aprender y superarme continuamente. Mi pasión radica en crear sitios webs atractivos e interactivos, siempre captando la identidad de la empresa o comunidad que deseamos representar. Estoy emocionada por formar parte de este mundito del desarrollo y contribuir con mi creatividad y mi humilde trabajo ❤️. 
