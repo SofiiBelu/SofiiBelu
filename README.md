@@ -9,8 +9,7 @@ El último proyecto que desarrolle, una página perteneciente a la comunidad de 
 ### Mi título:
 Técnica en Análisis y Desarrollo de Software
 ### Mis conocimientos:
-https://fontawesome.com/icons/square-github?f=brands&s=solid
-
+<i class="fa-brands fa-html5"></i>
 ♥ HTML 
 ♥ CSS 
 ♥ JavaScript
