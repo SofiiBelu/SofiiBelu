@@ -19,7 +19,10 @@ A lo largo de mi experiencia desarrollando he sentido que en ocasiones no se lo 
 
 <h3> Mi título: </h3>
 Técnica en Análisis y Desarrollo de Software
+<h4> Diplomaturas:
+  Diplomatura en desarrollo artístico de vídeojuegos </h4>
 <h4> Mis conocimientos: </h4>
+Diariamente estudio y práctico nuevas herramientas, así como también, adquiero nuevos conocimientos de manera autodidacta. 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,mysql,php,postman,github" />
