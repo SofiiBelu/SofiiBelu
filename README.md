@@ -1,4 +1,6 @@
-<h1>> Sofía Arín - Sofii Belu </h1
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-ZEtA8lP6Sy4szRL0zdPJrH95NF7jjwpoQqBEx98H1rpupTdK4GRFhlacg0Xg2h5y4lZo0u5rpUgVdBG5dxRS6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<h1> Sofía Arín - Sofii Belu </h1
 
 <h2> Desarrolladora Frontend Novata con pasión por el aprendizaje continuo :3 ❤️ </h2>
 
@@ -9,9 +11,8 @@ El último proyecto que desarrolle, una página perteneciente a la comunidad de 
 ### Mi título:
 Técnica en Análisis y Desarrollo de Software
 ### Mis conocimientos:
-<img src= "https://media.discordapp.net/attachments/1113974541388107917/1217708446456221766/images.png?ex=6605025d&is=65f28d5d&hm=b074e19a123921060672680c7cb06fcb84d65002b2741c92b206032664714345&=&format=webp&quality=lossless" style="width: 50px; border: 1px solid black; margin: 10px;">
-<img src= "https://media.discordapp.net/attachments/1113974541388107917/1217709650494095360/1452px-CSS3_logo_and_wordmark.png?ex=6605037c&is=65f28e7c&hm=a9b8549ce4737764b9bb7b0318eef35ea2572f03f5494bc1244ead0d64f480f6&=&format=webp&quality=lossless&width=498&height=702" style="width: 50px; border: 1px solid black; margin: 10px;">
 
+<i class="fa-brands fa-html5"></i>
 
 
 ♥ HTML 
