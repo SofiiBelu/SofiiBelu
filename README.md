@@ -9,7 +9,7 @@ El último proyecto que desarrolle, una página perteneciente a la comunidad de 
 ### Mi título:
 Técnica en Análisis y Desarrollo de Software
 ### Mis conocimientos:
-<img src= "https://media.discordapp.net/attachments/1113974541388107917/1217708446456221766/images.png?ex=6605025d&is=65f28d5d&hm=b074e19a123921060672680c7cb06fcb84d65002b2741c92b206032664714345&=&format=webp&quality=lossless" style="width: 150px; border: 1px solid black; margin: 10px;">
+<img src= "https://media.discordapp.net/attachments/1113974541388107917/1217708446456221766/images.png?ex=6605025d&is=65f28d5d&hm=b074e19a123921060672680c7cb06fcb84d65002b2741c92b206032664714345&=&format=webp&quality=lossless" style="width: 50px; border: 1px solid black; margin: 10px;">
 
 
 
