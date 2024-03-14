@@ -12,9 +12,10 @@ Técnica en Análisis y Desarrollo de Software
 ### Mis conocimientos:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,github" />
   </a>
 </p>
+
 
 
 ♥ HTML 
