@@ -6,6 +6,8 @@
 Me encanta enfrentar nuevos retos y superarlos con ganas de aprender y dando lo mejor de mí. Cada desafío es una aventura que me motiva a crecer y descubrir nuevas habilidades. No hay mayor satisfacción que lograr algo que antes me parecía imposible! 
 El último proyecto que desarrolle, una página perteneciente a la comunidad de un vídeojuego "Black Desert": https://clairedelune.netlify.app/activities
 
+### Mi título:
+Técnica en Análisis y Desarrollo de Software
 ### Mis conocimientos:
 ♥ HTML 
 ♥ CSS 
