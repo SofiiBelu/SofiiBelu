@@ -1,18 +1,26 @@
 
 <h1> Sofía Arín - Sofii Belu </h1
 
-<h2> Desarrolladora Frontend Novata con pasión por el aprendizaje continuo :3 ❤️ </h2>
+<h2> Desarrolladora Novata con pasión por el aprendizaje continuo :3 ❤️</h2>
 
-<p>¡Holis! Soy Sofii, una entusiasta desarrolladora web con un fuerte deseo de aprender y superarme continuamente. Mi pasión radica en crear sitios webs atractivos e interactivos. Estoy emocionada por formar parte de este mundito del desarrollo y contribuir con mi creatividad y mi humilde trabajo ❤️. 
+<p>¡Holis! Soy Sofii, una entusiasta desarrolladora web con un fuerte deseo de aprender y superarme continuamente. Mi pasión radica en crear sitios webs atractivos e interactivos, siempre captando la identidad de la empresa o comunidad que deseamos representar. Estoy emocionada por formar parte de este mundito del desarrollo y contribuir con mi creatividad y mi humilde trabajo ❤️. 
 Me encanta enfrentar nuevos retos y superarlos con ganas de aprender y dando lo mejor de mí. Cada desafío es una aventura que me motiva a crecer y descubrir nuevas habilidades. No hay mayor satisfacción que lograr algo que antes me parecía imposible!</p>
 
+<span class="lema"> Hola </span>
+
+
+<style>
+  .lema {
+    text-shadow: 2px 2px 4px rgb(255, 135, 173);
+  }
+</style>
 
 <h3> Mi título: </h3>
 Técnica en Análisis y Desarrollo de Software
 <h4> Mis conocimientos: </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,php,postman,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,mysql,php,postman,github" />
   </a>
 </p>
 
@@ -22,11 +30,14 @@ Técnica en Análisis y Desarrollo de Software
 Desarrollada con HTML, CSS Y JavaScript: https://clairedelune.netlify.app/activities </p>
 
 <h4> EduManager </h4>
-<p>Sitio web de la facultad, cuyo propósito es facilitar la inscripción a las mesas de exámenes, almacenar en una base de datos la información de los inscriptos e imprimir la lista de alumnos de cada exámen. Mi tarea fue desarrollar al 100% el front end, para ello debí conocer los requerimientos de la facultad y encargar de diseñarla, maquetarla, darle estilo y programar la parte del front, aúnque también estuve en tareas de backend como la construcción de la base de datos y la API.
-Si bien la página web podría verse mejor, debo aclarar que el trabajo de mis compañeros repetidamente involucraba modificar el front, afectando parte de mi trabajo. Y la falta de la mitad del equipo hizo que los tiempos no dieran para finalizar el desarrollo correctamente.
+<p>Sitio web desarrollado para la facultad, con el propósito de facilitar el proceso de inscripción a las mesas de exámenes. Además, permite almacenar la información de los inscriptos en una base de datos y generar la lista de alumnos para cada examen. Mi responsabilidad principal fue el desarrollo del front-end en su totalidad. Esto implicó comprender los requisitos de la facultad y encargarme del diseño, maquetación, estilización y programación del front-end. También estuve involucrada en algunas tareas del back-end, como la construcción de la base de datos y la API.
+Aunque considero que la página web podría haber tenido un aspecto mejor, es importante mencionar que tuve que adaptarme a modificaciones frecuentes en el front-end por parte de mis compañeros, lo que afectó parte de mi trabajo. Además, la ausencia de la mitad del equipo contribuyó a que los plazos no fueran suficientes para finalizar el desarrollo de manera óptima.
 Desarrollada con HTML, CSS, TypeScript, PHP, MySql y Angular:
 https://escuelasagarna.ar/inicio</p>
 
+<h4> FBL-Sistemas website </h4>
+<p>Una página web que permita a los clientes actuales y potenciales conocer la lista de servicios que la empresa ofrece, así como también las diversas formas de ponerse en contacto con ella. Mi tarea en este trabajo fue crear una versión nueva y moderna de una página web ya existente de una empresa como parte de mi pasantía. 
+Desarrollada con HTML,CSS, JavaScript y PHP. Aunque actualmente estoy adaptandola y expandiendola utilizando React</p>
 
 
 <!--
