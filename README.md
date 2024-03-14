@@ -5,12 +5,9 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&center=true&vCenter=true&width=600&height=100&lines=%3Cstyle%3E%0A%40keyframes%20blink-text%20%7B%0A%20%200%25%20%7B%0A%20%20%20text-fill-color%3A%20deepskyblue%3B%0A%20%7D%0A%20%2050%25%20%7B%0A%20%20%20text-fill-color%3A%20hotpink%3B%0A%20%7D%0A%7D%0A%40-webkit-keyframes%20blink-text%20%7B%0A%20%200%25%20%7B%0A%20%20%20text-fill-color%3A%20deepskyblue%3B%0A%20%7D%0A%20%2050%25%20%7B%0A%20%20%20text-fill-color%3A%20hotpink%3B%0A%20%7D%0A%7D%0A%40-webkit-keyframes%20blink-text%20%7B%0A%20%200%25%20%7B%0A%20%20%20text-fill-color%3A%20deepskyblue%3B%0A%20%7D%0A%20%2050%25%20%7B%0A%20%20%20text-fill-color%3A%20hotpink%3B%0A%20%7D%0A%7D%0A%40-webkit-keyframes%20blink-text%20%7B%0A%20%200%25%20%7B%0A%20%20%20text-fill-color%3A%20deepskyblue%3B%0A%20%7D%0A%20%2050%25%20%7B%0A%20%20%20text-fill-color%3A%20hotpink%3B%0A%20%7D%0A%7D%0A%3C%2Fstyle%3E%0A%0A%3Cspan%20style%3D%22animation%3A%20blink-text%201s%20step-start%20infinite%3B%22%3EApasionada%20por%20el%20aprendizaje.%3B%3C%2Fspan%3E%3Cspan%20style%3D%22animation%3A%20blink-text%201s%20step-start%20infinite%3B%22%3EColaboradora%20eficaz%3B%3C%2Fspan%3E%3Cspan%20style%3D%22animation%3A%20blink-text%201s%20step-start%20infinite%3B%22%3ETrato%20amable%20con%20los%20demás%3B%3C%2Fspan%3E%3Cspan%20style%3D%22animation%3A%20blink-text%201s%20step-start%20infinite%3B%22%3EComprometida%20con%20el%20crecimiento%20personal%3C%2Fspan%3E">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=pink&size=25&center=true&vCenter=true&width=600&height=100&lines=T%C3%A9cnica+en+An%C3%A1lisis+y+Desarrollo+de+Software;Junior+desarrolladora+front+end;Apasionada+por+el+aprendizaje;Amo+aprender+cosas+nuevas;Comprometida+con+el+crecimiento+profesional">
   </a>
 </p>
-
-
-
 
 
 <p>¡Holis! Soy Sofii, una entusiasta desarrolladora web con un fuerte deseo de aprender y superarme continuamente. Mi pasión radica en crear sitios webs atractivos e interactivos, siempre captando la identidad de la empresa o comunidad que deseamos representar. Estoy emocionada por formar parte de este mundito del desarrollo y contribuir con mi creatividad y mi humilde trabajo ❤️. 
