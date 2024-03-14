@@ -46,7 +46,7 @@ Desarrollada con HTML, CSS, TypeScript, PHP, MySql y Angular: <br>
 Desarrollada con HTML,CSS, JavaScript y PHP. Aunque actualmente estoy adaptandola y expandiendola utilizando React</p>
 
 
-Mi currículum: [Currículum.pdf](https://github.com/SofiiBelu/SofiiBelu/files/14598219/Curriculum.pdf)
+<h3>Mi currículum: </h3> [Currículum.pdf](https://github.com/SofiiBelu/SofiiBelu/files/14598219/Curriculum.pdf)
 
 
 <!--
