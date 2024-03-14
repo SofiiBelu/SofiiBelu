@@ -46,6 +46,9 @@ https://escuelasagarna.ar/inicio</p>
 Desarrollada con HTML,CSS, JavaScript y PHP. Aunque actualmente estoy adaptandola y expandiendola utilizando React</p>
 
 
+Mi currículum: [Currículum.pdf](https://github.com/SofiiBelu/SofiiBelu/files/14598219/Curriculum.pdf)
+
+
 <!--
 **SofiiBelu/SofiiBelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
