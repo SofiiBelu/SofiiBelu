@@ -39,7 +39,7 @@ Desarrollada con HTML, CSS Y JavaScript: <br> https://clairedelune.netlify.app/a
 <p>Sitio web desarrollado para la facultad, con el propósito de facilitar el proceso de inscripción a las mesas de exámenes. Además, permite almacenar la información de los inscriptos en una base de datos y generar la lista de alumnos para cada examen. Mi responsabilidad principal fue el desarrollo del front-end en su totalidad. Esto implicó comprender los requisitos de la facultad y encargarme del diseño, maquetación, estilización y programación del front-end. También estuve involucrada en algunas tareas del back-end, como la construcción de la base de datos y la API.
 Aunque considero que la página web podría haber tenido un aspecto mejor, es importante mencionar que tuve que adaptarme a modificaciones frecuentes en el front-end por parte de mis compañeros, lo que afectó parte de mi trabajo. Además, la ausencia de la mitad del equipo contribuyó a que los plazos no fueran suficientes para finalizar el desarrollo de manera óptima.
 Desarrollada con HTML, CSS, TypeScript, PHP, MySql y Angular: <br>
-<br> https://escuelasagarna.ar/inicio</p>
+<br>https://edumanagersagarna.netlify.app</p>
 
 <h4> FBL-Sistemas website </h4>
 <p>Una página web que permita a los clientes actuales y potenciales conocer la lista de servicios que la empresa ofrece, así como también las diversas formas de ponerse en contacto con ella. Mi tarea en este trabajo fue crear una versión nueva y moderna de una página web ya existente de una empresa como parte de mi pasantía. 
