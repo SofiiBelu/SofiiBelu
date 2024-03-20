@@ -43,7 +43,7 @@ Desarrollada con HTML, CSS, TypeScript, PHP, MySql y Angular: <br>
 
 <h4> FBL-Sistemas website </h4>
 <p>Una página web que permita a los clientes actuales y potenciales conocer la lista de servicios que la empresa ofrece, así como también las diversas formas de ponerse en contacto con ella. Mi tarea en este trabajo fue crear una versión nueva y moderna de una página web ya existente de una empresa como parte de mi pasantía. 
-Desarrollada con HTML,CSS, JavaScript y PHP. Aunque actualmente estoy adaptandola y expandiendola utilizando React</p>
+Desarrollada con HTML,CSS, JavaScript y PHP. Aunque actualmente estoy adaptandola y expandiendola utilizando React. (Lamentablemente aún no puedo subir públicamente este proyecto)</p>
 
 
 <h3>Mi currículum: </h3> [Currículum.pdf](https://github.com/SofiiBelu/SofiiBelu/files/14598459/Curriculum.pdf)
