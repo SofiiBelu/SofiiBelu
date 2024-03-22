@@ -41,8 +41,8 @@ Aunque considero que la página web podría haber tenido un aspecto mejor, es im
 Desarrollada con HTML, CSS, TypeScript, PHP, MySql y Angular: <br>
 <br>https://edumanagersagarna.netlify.app</p>
 
-<h4> FBL-Sistemas website </h4>
-<p>Una página web que permita a los clientes actuales y potenciales conocer la lista de servicios que la empresa ofrece, así como también las diversas formas de ponerse en contacto con ella. Mi tarea en este trabajo fue crear una versión nueva y moderna de una página web ya existente de una empresa como parte de mi pasantía. 
+<h4> Sistemas website </h4>
+<p>Iniciada como parte de una práctica profesionalizante realizada en una empresa de software. Es una página web que permite a los clientes actuales y potenciales conocer la lista de servicios que la empresa ofrece (actualmente estoy expandiendo secciones y realizando un Ecommerce), así como también las diversas formas de ponerse en contacto con ella. Mi tarea en este trabajo fue crear una versión nueva y moderna de una página web ya existente de una empresa como parte de mi pasantía. 
 Desarrollada con HTML,CSS, JavaScript y PHP. Aunque actualmente estoy adaptandola y expandiendola utilizando React. (Lamentablemente aún no puedo subir públicamente este proyecto)</p>
 
 
