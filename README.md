@@ -31,6 +31,13 @@ Diariamente estudio y práctico nuevas herramientas, así como también, adquier
 </p>
 <hr>
 <h3> Proyectos: </h3>
+
+<h4> FBL Website (Aún en desarrollo) </h4>
+<p>Iniciada como parte de una práctica profesionalizante realizada en una empresa de software. Es una página web que permite a los clientes actuales y potenciales conocer la lista de servicios que la empresa ofrece, así como también las diversas formas de ponerse en contacto con ella. Mi tarea en este trabajo fue crear una versión nueva y moderna de una página web ya existente de una empresa como parte de mi pasantía. <be> 
+Actualmente la re hicea y estoy expandiendo secciones y agregandole realizando un Ecommerce. <br>
+Desarrollada con HTML,CSS, JavaScript y PHP. Aunque actualmente estoy adaptandola y expandiendola utilizando React:
+<br> https://fblsistemas.netlify.app/services </p>
+
 <h4> Claire de Lune Website </h4>
 <p>Sitio web perteneciente a la comunidad de un vídeojuego "Black Desert". Me encargué de conocer los requerimientos, pensar las soluciones, el diseño, la maquetación, estilo y la programación de la web.
 Desarrollada con HTML, CSS Y JavaScript: <br> https://clairedelune.netlify.app/activities </p> 
@@ -40,10 +47,6 @@ Desarrollada con HTML, CSS Y JavaScript: <br> https://clairedelune.netlify.app/a
 Aunque considero que la página web podría haber tenido un aspecto mejor, es importante mencionar que tuve que adaptarme a modificaciones frecuentes en el front-end por parte de mis compañeros, lo que afectó parte de mi trabajo. Además, la ausencia de la mitad del equipo contribuyó a que los plazos no fueran suficientes para finalizar el desarrollo de manera óptima.
 Desarrollada con HTML, CSS, TypeScript, PHP, MySql y Angular: <br>
 <br>https://edumanagersagarna.netlify.app</p>
-
-<h4> FBL Website </h4>
-<p>Iniciada como parte de una práctica profesionalizante realizada en una empresa de software. Es una página web que permite a los clientes actuales y potenciales conocer la lista de servicios que la empresa ofrece (actualmente estoy expandiendo secciones y realizando un Ecommerce), así como también las diversas formas de ponerse en contacto con ella. Mi tarea en este trabajo fue crear una versión nueva y moderna de una página web ya existente de una empresa como parte de mi pasantía. 
-Desarrollada con HTML,CSS, JavaScript y PHP. Aunque actualmente estoy adaptandola y expandiendola utilizando React. (Lamentablemente aún no puedo subir públicamente este proyecto)</p>
 
 
 <h3>Mi currículum: </h3> [Currículum.pdf](https://github.com/SofiiBelu/SofiiBelu/files/14598459/Curriculum.pdf)
