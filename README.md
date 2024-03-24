@@ -26,7 +26,7 @@ A lo largo de mi experiencia desarrollando he sentido que en ocasiones no se lo 
 Diariamente estudio y práctico nuevas herramientas, así como también, adquiero nuevos conocimientos de manera autodidacta. 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,php,mysql,vscode,postman,git,github,netlify" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,mysql,vscode,postman,git,github,netlify" />
   </a>
 </p>
 <hr>
@@ -45,7 +45,7 @@ Desarrollada con HTML, CSS Y JavaScript: <br> https://clairedelune.netlify.app/a
 <h4> EduManager </h4>
 <p>Sitio web desarrollado para la facultad, con el propósito de facilitar el proceso de inscripción a las mesas de exámenes. Además, permite almacenar la información de los inscriptos en una base de datos y generar la lista de alumnos para cada examen. Mi responsabilidad principal fue el desarrollo del front-end en su totalidad. Esto implicó comprender los requisitos de la facultad y encargarme del diseño, maquetación, estilización y programación del front-end. También estuve involucrada en algunas tareas del back-end, como la construcción de la base de datos y la API.
 Aunque considero que la página web podría haber tenido un aspecto mejor, es importante mencionar que tuve que adaptarme a modificaciones frecuentes en el front-end por parte de mis compañeros, lo que afectó parte de mi trabajo. Además, la ausencia de la mitad del equipo contribuyó a que los plazos no fueran suficientes para finalizar el desarrollo de manera óptima.
-Desarrollada con HTML, CSS, MySql y Angular: <br>
+Desarrollada con HTML, CSS, TypeScrip, PHP, MySql y Angular: <br>
 <br>https://edumanagersagarna.netlify.app</p>
 
 
