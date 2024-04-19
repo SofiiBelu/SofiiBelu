@@ -32,7 +32,7 @@ Diariamente estudio y práctico nuevas herramientas, así como también, adquier
 <hr>
 <h3> Proyectos: </h3>
 
-<h4> FBL Website (Aún en desarrollo - ultima actualización 14/04/2024) </h4>
+<h4> FBL Website (Aún en desarrollo - ultima actualización 18/04/2024) </h4>
 <p>Iniciada como parte de una práctica profesionalizante realizada en una empresa de software. Es una página web que permite a los clientes actuales y potenciales conocer la lista de servicios que la empresa ofrece, así como también las diversas formas de ponerse en contacto con ella. Mi tarea en este trabajo fue crear una versión nueva y moderna de una página web ya existente de una empresa como parte de mi pasantía. <be> 
 Actualmente la re hicea y estoy expandiendo secciones y agregandole realizando un Ecommerce. <br>
 Desarrollada con HTML, CSS, JavaScript, React:
