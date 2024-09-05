@@ -18,7 +18,7 @@ A lo largo de mi experiencia desarrollando he sentido que en ocasiones no se lo 
 :heartpulse: :heartpulse: :heartpulse: <b><i> Puede que en ocasiones no esté a la altura, pero aprenderé lo necesario para estarlo. </b></i> :heartpulse: :heartpulse: :heartpulse:
 <hr>
 
-<h3> Mi título: Técnica en Análisis y Desarrollo de Software </h3>
+<h3> Mi título: Técnica Superior en Análisis y Desarrollo de Software </h3>
 
 <h4> Diplomaturas:
   Diplomatura en desarrollo artístico de vídeojuegos </h4>
@@ -26,7 +26,7 @@ A lo largo de mi experiencia desarrollando he sentido que en ocasiones no se lo 
 Diariamente estudio y práctico nuevas herramientas, así como también, adquiero nuevos conocimientos de manera autodidacta. 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,mysql,vscode,postman,git,github,netlify" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,mysql,vscode,postman,git,github,netlify, wordpress" />
   </a>
 </p>
 <hr>
