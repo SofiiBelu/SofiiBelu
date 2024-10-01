@@ -49,7 +49,8 @@ Desarrollada con HTML, CSS, TypeScrip, PHP, MySql y Angular: <br>
 <br>https://edumanagersagarna.netlify.app</p>
 
 
-<h3>Mi currículum: </h3> [CV](https://github.com/user-attachments/files/17217081/CV.19-08-24.1.pdf)
+<h3>Mi currículum: </h3> [Actualizado al día 01/10/2024](https://github.com/user-attachments/files/17217097/CV.01-10-2024.pdf)
+
 
 
 
