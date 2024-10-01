@@ -1,7 +1,7 @@
 
 <h1> Sofía Arín - Sofii Belu </h1
 
-<h2> Desarrolladora Novata con pasión por el aprendizaje continuo :3 ❤️</h2>
+<h2> Desarrolladora Junior con pasión por el aprendizaje continuo :3 ❤️</h2>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
